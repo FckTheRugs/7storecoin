@@ -1,5 +1,20 @@
 {
   "name": "7Store",
   "symbol": "7STR",
-  "image": "https://github.com/FckTheRugs/7storecoin/blob/main/7store.jpg?raw=true"
+  "description": "7Store - DVD Renting",
+  "seller_fee_basis_points": 500,
+  "image": "https://github.com/FckTheRugs/7storecoin/blob/main/7store.jpg?raw=true",
+  "external_url": "https://7store-wiener.be",
+  "attributes": [
+    { "trait_type": "Category", "value": "Memecoin" },
+    { "trait_type": "Special", "value": "Limited Edition" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "CSqD5tGBjNNYDe8bBAKteoq4UC556tzxdYaXEPLd44Hf",
+        "share": 100
+      }
+    ]
+  }
 }
